@@ -7,10 +7,10 @@ spectrogram visualization tool
 
 Dependencies: pyaudio, numpy and matplotlib
 """
+import matplotlib.pyplot as plt
+import numpy as np
 ############### Import Libraries ###############
 import pyaudio
-import numpy as np
-import matplotlib.pyplot as plt
 
 ############### Constants ###############
 #RATE = 44100 #sample rate
